@@ -1,0 +1,10 @@
+const menu = ['bacon', 'eggs', 'toast', 'salad', 'ham'];
+
+menu.forEach(function (value, i){
+  console.log(i+','+value)
+});
+//0,bacon
+  1,eggs
+  2,toast
+  3,salad
+  4,ham
