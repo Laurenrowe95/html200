@@ -1,0 +1,4 @@
+let menu = ['bacon', 'eggs', 'toast','salad', 'ham','.'];
+
+console.log(menu[2]);
+//toast
