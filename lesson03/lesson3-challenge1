@@ -1,0 +1,10 @@
+let menu = ['bacon', 'eggs', 'toast','salad', 'ham'];
+
+menu.push('cheese');
+
+menu.splice(2, 1);
+
+const fullmenulist= menu.join(',');
+
+console.log(menu);
+//"bacon","eggs","salad","ham","cheese"
